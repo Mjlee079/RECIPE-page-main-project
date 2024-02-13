@@ -15,20 +15,20 @@ body{
 .container{
 display: flex;
 flex-direction: column;
-margin: 5vh 0 5vh 20vw;
+margin: 5vh 0 5vh 10vw;
 background-color: hsl(0, 0%, 100%);
-width: 70vw;
+width: 80vw;
 border-radius: 20px;
 }
 .container-item{
     /* background-color: aqua; */
-    width: 65vw;
+    width: 75vw;
     margin: 5vh 0 0 2vw;
 }
 .box1 img{
-    width: 65vw;
+    width: 75vw;
     border-radius: 60px;
-    height: 65vh;
+    height: 75vh;
     
 }
 
